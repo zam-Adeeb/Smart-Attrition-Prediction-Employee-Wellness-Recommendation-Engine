@@ -1,5 +1,3 @@
-# Smart-Attrition-Prediction-Employee-Wellness-Recommendation-Engine
-
 # 💼 Smart Attrition Prediction & Employee Wellness Recommendation Engine
 
 ## 📌 Overview
