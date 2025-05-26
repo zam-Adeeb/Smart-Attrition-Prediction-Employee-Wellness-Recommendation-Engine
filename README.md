@@ -78,7 +78,7 @@ This project is a Data Science-driven solution aimed at **predicting employee at
 
 ## 👥 Author
 
-Developed by: **Adeeb Ahemd (1DB21CS005)**
-Submission: Internship Project in the field of Data Science
+* Developed by: **Adeeb Ahemd (1DB21CS005)**
+* Submission: Internship Project in the field of Data Science
 ---
 
